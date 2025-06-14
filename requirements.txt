@@ -6,3 +6,12 @@ langchain-openai
 langchain-groq
 langchain-core
 defusedxml
+langchain_huggingface
+sentence-transformers
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+faiss-cpu
+langchain_google_genai
