@@ -15,3 +15,12 @@ pymupdf
 wikipedia
 faiss-cpu
 langchain_google_genai
+weaviate-client
+langchain_weaviate
+wikipedia
+youtube_search
+langgraph
+chromadb
+langchain-chroma
+pyowm
+langchain-tavily
